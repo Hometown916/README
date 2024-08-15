@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Hello! I am [Your Name], a passionate blockchain developer with a keen interest in decentralized technologies and cryptographic security. This GitHub account showcases my projects, contributions, and experiments in the blockchain space.
+Hello! I am Okawa Masaaki, a passionate blockchain developer with a keen interest in decentralized technologies and cryptographic security. This GitHub account showcases my projects, contributions, and experiments in the blockchain space.
 
 ## About Me
 
